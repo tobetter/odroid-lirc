@@ -1,0 +1,7 @@
+odroid-lirc
+===========
+
+This package is to set up ODROID's default IR remote controller.
+
+For more detail about the controller:
+http://odroid.com/dokuwiki/doku.php?id=en:c1_hardwarehacking#ir_remote_controller_linux
