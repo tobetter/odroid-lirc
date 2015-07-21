@@ -1,10 +1,10 @@
 Source: odroid-lirc
-Section: unknown
+Section: misc
 Priority: extra
 Maintainer: Dongjin Kim <tobetter@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
-Homepage: <insert the upstream URL, if relevant>
+Homepage: https://github.com/tobetter/odroid-lirc
 #Vcs-Git: git://git.debian.org/collab-maint/odroid-lirc.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/odroid-lirc.git;a=summary
 
