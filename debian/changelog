@@ -1,0 +1,5 @@
+odroid-lirc (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Dongjin Kim <tobetter@gmail.com>  Tue, 21 Jul 2015 11:10:42 +0900

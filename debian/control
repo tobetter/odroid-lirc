@@ -1,0 +1,14 @@
+Source: odroid-lirc
+Section: unknown
+Priority: extra
+Maintainer: Dongjin Kim <tobetter@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/odroid-lirc.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/odroid-lirc.git;a=summary
+
+Package: odroid-lirc
+Architecture: any
+Depends: ${shlibs:Depens}, ${misc:Depends}, lirc (< 1.0)
+Description: LIRC default configuration for ODROID
